@@ -18,7 +18,7 @@ USE AT YOUR OWN RISK!
 
 # ZX3_8xROM_Adapter
 
-A simple PCB that allows us to use up to four different roms on ZX Spectrum 2A, 2B and +3 computers.
+A simple PCB that allows us to use up to eight different roms on ZX Spectrum 2A, 2B and +3 computers.
 
 Based on two W27C020 EEPROMs
 
